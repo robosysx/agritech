@@ -5,6 +5,7 @@ header {
   color: #ffffff;
   padding: 20px;
 }
+
 h1 {        
   font-size: 36px;
   margin-top: 10px;  /*FOR Agritech Word*/
@@ -30,6 +31,7 @@ body {
   flex-direction: column;
 }
 
+
 .container {
   position: relative;
   width: 100%;
@@ -39,6 +41,7 @@ body {
   background: linear-gradient(135deg, #ffffff, #f5f5f5); /* Gradient background */
   box-shadow: 0 0 5px #999999;
 }
+
 
 body {
   margin: 0;
@@ -50,10 +53,12 @@ body {
 }
 
 
+
 .credit a {
   color: #222222;
   font-size: 16px;
   font-weight: 600;
+  text-decoration:none;
 }
 
 .col-left,
@@ -68,8 +73,9 @@ body {
   background: linear-gradient(135deg, #44c7f5, #007BFF); /* Gradient background */
 }
 
+
 .col-right {
-  padding: 60px 39px;
+  padding: 80px 39px;
   width: 40%;
   margin-left: -10%;
 }
@@ -89,7 +95,7 @@ body {
   }
 
   .col-right {
-    padding: 30px;
+    padding: 50px;
   }
 }
 
@@ -106,10 +112,10 @@ body {
 }
 
 .login-text p {
-  margin: 0 0 20px 0;
+  margin: 0 0 50px 0;
   font-size: 16px;
   font-weight: 500;
-  line-height: 22px;
+  line-height: 30px;
 }
 
 .login-text .btn {
@@ -118,7 +124,7 @@ body {
   font-size: 16px;
   letter-spacing: 1px;
   text-decoration: none;
-  border-radius: 30px;
+  border-radius: 50px;
   color: #ffffff;
   outline: none;
   border: 1px solid #ffffff;
